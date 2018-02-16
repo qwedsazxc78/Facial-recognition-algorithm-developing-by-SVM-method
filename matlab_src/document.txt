@@ -1,0 +1,24 @@
+database:
+資工系圖像辨識期末專題的資料庫
+
+face_feature:
+用來擷取眼睛嘴巴鼻子的特徵
+
+face_feture_plot:
+觀察擷取特徵的樣子
+
+load_face:
+將所有照片建立特徵的資料矩陣
+
+svm_model:
+訓練SVM
+
+svm_predict:
+驗證model準確性
+
+
+training:
+50 photo for each face expression
+
+testing:
+25 photo for each face expression
