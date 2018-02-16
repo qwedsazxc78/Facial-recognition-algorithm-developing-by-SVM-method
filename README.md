@@ -10,4 +10,4 @@
 ![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/TrainingData.png)
 
 ## Predict Result
-![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/Predict.png)
+![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/Result.png)
