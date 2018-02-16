@@ -1,13 +1,13 @@
 # Facial-recognition-algorithm-developing-by-SVM-method
 
 ## Deceloping FlowChart
-![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/master/pic/FlowChart.png)
+![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/FlowChart.png)
 
 ## Face Feature with Eye, Nose, and Lip
-![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/master/pic/FaceFeature.png)
+![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/FaceFeature.png)
 
 ## TrainingData
-![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/master/pic/TrainingData.png)
+![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/TrainingData.png)
 
 ## Predict Result
-![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/master/pic/Predict.png)
+![alt text](https://github.com/qwedsazxc78/Facial-recognition-algorithm-developing-by-SVM-method/blob/master/pic/Predict.png)
